@@ -41,5 +41,5 @@ Toggle widgets on your **Corsair Xeneon Edge** directly from Stream Deck ⚡
 This plugin is licensed under **GPLv3**.
 
 This project uses:
-- Stream Deck CLI (`@elgato/cli`) — MIT License
-- Stream Deck SDK (`@elgato/streamdeck`) — MIT License
+- Stream Deck CLI (`@elgatosf/cli`) — MIT License
+- Stream Deck SDK (`@elgatosf/streamdeck`) — MIT License
