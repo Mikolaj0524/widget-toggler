@@ -35,6 +35,9 @@ Toggle widgets on your **Corsair Xeneon Edge** directly from Stream Deck ⚡
 - No extra setup required.
 - Unofficial plugin, not affiliated with Corsair.
 
+## 🛠 Issues
+
+If you have any issues, write them down in the Issues tab.
 
 ## 📜 Licenses
 
